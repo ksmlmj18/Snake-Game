@@ -60,7 +60,7 @@ function loadImages() {
 
 function createSnake() {
 
-    dots = 3;
+    dots = 4;
 
     for (var z = 0; z < dots; z++) {
         x[z] = 50 - z * 10;
